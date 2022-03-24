@@ -22,7 +22,7 @@ int main() {
     
     // 4. Input the height, width, lenght of box1 and box2
     cout << "Enter Box 1 Height : ";
-    cin >> Height of Box 1;
+    cin >> box1.Height;
     cout << "Enter Box 1 Width : ";
     cin >> Width of Box 1;
     cout << "Enter Box 1 Length : ";
